@@ -1,5 +1,5 @@
 # Proyecto-IA-Caballos-Distribuidos
-Proyecto de Inteligencia Artificial -Caballos Dsitribuidos (Web Api)- 
+Proyecto de Inteligencia Artificial -Caballos Distribuidos (Web Api)- 
 Desarrollado por Iris Olvera Trejo & Omar Pintor Pérez.
 
 ### Archivo
