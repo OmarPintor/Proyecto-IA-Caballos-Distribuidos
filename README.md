@@ -19,3 +19,6 @@ Unicamente el archivo es todo lo necesario y las indicaciones puestas en el apar
 1. Al tratarse de un archivo Python es posible ejecutarse usando algun IDE de Python o desde la consola CMD.
 2. En su ejecucion se debe recuperar la dirección IP del equipo (Ejecutar> cmd> ipconfig), en el cual se añadira junto con el puerto designado para direccionar a una URL en donde se tendra acceso a la Web Api desde el propio navegador, recordando que el menu principal debe concordar con la siguiente URL de ejemplo; 192.168.X.X:8080/cliente
 3. Finalmente, puede acceder al sitio web (incluso desde el movil) donde se interpretara las acciones que el cliente en cuestion desee realizar.
+
+
+Video de Youtube:
